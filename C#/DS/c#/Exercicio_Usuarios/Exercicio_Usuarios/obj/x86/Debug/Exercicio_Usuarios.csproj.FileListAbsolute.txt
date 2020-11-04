@@ -1,0 +1,25 @@
+C:\Users\Etec\AppData\Local\Temporary Projects\Exercicio_Usuarios\bin\Debug\Exercicio_Usuarios.exe
+C:\Users\Etec\AppData\Local\Temporary Projects\Exercicio_Usuarios\bin\Debug\Exercicio_Usuarios.pdb
+C:\Users\Etec\AppData\Local\Temporary Projects\Exercicio_Usuarios\obj\x86\Debug\Exercicio_Usuarios.Properties.Resources.resources
+C:\Users\Etec\AppData\Local\Temporary Projects\Exercicio_Usuarios\obj\x86\Debug\Exercicio_Usuarios.csproj.GenerateResource.Cache
+C:\Users\Etec\AppData\Local\Temporary Projects\Exercicio_Usuarios\obj\x86\Debug\Exercicio_Usuarios.exe
+C:\Users\Etec\AppData\Local\Temporary Projects\Exercicio_Usuarios\obj\x86\Debug\Exercicio_Usuarios.pdb
+C:\Users\Etec\AppData\Local\Temporary Projects\Exercicio_Usuarios\obj\x86\Debug\Exercicio_Usuarios.frmMain.resources
+C:\Users\Etec\Desktop\c#\Exercicio_Usuarios\Exercicio_Usuarios\obj\x86\Debug\Exercicio_Usuarios.exe
+C:\Users\Etec\Desktop\c#\Exercicio_Usuarios\Exercicio_Usuarios\obj\x86\Debug\Exercicio_Usuarios.pdb
+C:\Users\Etec\Desktop\c#\Exercicio_Usuarios\Exercicio_Usuarios\bin\Debug\Exercicio_Usuarios.exe
+C:\Users\Etec\Desktop\c#\Exercicio_Usuarios\Exercicio_Usuarios\bin\Debug\Exercicio_Usuarios.pdb
+C:\Users\Etec\Desktop\c#\Exercicio_Usuarios\Exercicio_Usuarios\obj\x86\Debug\Exercicio_Usuarios.frmMain.resources
+C:\Users\Etec\Desktop\c#\Exercicio_Usuarios\Exercicio_Usuarios\obj\x86\Debug\Exercicio_Usuarios.Properties.Resources.resources
+C:\Users\Etec\Desktop\c#\Exercicio_Usuarios\Exercicio_Usuarios\obj\x86\Debug\Exercicio_Usuarios.csproj.GenerateResource.Cache
+D:\MURILO\escola\ETEC FINAL\ds\c#\Exercicio_Usuarios\Exercicio_Usuarios\obj\x86\Debug\Exercicio_Usuarios.exe
+D:\MURILO\escola\ETEC FINAL\ds\c#\Exercicio_Usuarios\Exercicio_Usuarios\obj\x86\Debug\Exercicio_Usuarios.pdb
+D:\MURILO\escola\ETEC FINAL\ds\c#\Exercicio_Usuarios\Exercicio_Usuarios\bin\Debug\Exercicio_Usuarios.exe
+D:\MURILO\escola\ETEC FINAL\ds\c#\Exercicio_Usuarios\Exercicio_Usuarios\bin\Debug\Exercicio_Usuarios.pdb
+D:\MURILO\escola\ETEC FINAL\ds\c#\Exercicio_Usuarios\Exercicio_Usuarios\obj\x86\Debug\Exercicio_Usuarios.csprojResolveAssemblyReference.cache
+D:\MURILO\escola\ETEC FINAL\ds\c#\Exercicio_Usuarios\Exercicio_Usuarios\obj\x86\Debug\Exercicio_Usuarios.frmMain.resources
+D:\MURILO\escola\ETEC FINAL\ds\c#\Exercicio_Usuarios\Exercicio_Usuarios\obj\x86\Debug\Exercicio_Usuarios.Properties.Resources.resources
+D:\MURILO\escola\ETEC FINAL\ds\c#\Exercicio_Usuarios\Exercicio_Usuarios\obj\x86\Debug\Exercicio_Usuarios.csproj.GenerateResource.Cache
+D:\MURILO\escola\ETEC FINAL\ds\c#\Exercicio_Usuarios\Exercicio_Usuarios\obj\x86\Debug\Exercicio_Usuarios.frmForgot.resources
+C:\Users\Etec\Desktop\c#\Exercicio_Usuarios\Exercicio_Usuarios\obj\x86\Debug\Exercicio_Usuarios.csprojResolveAssemblyReference.cache
+C:\Users\Etec\Desktop\c#\Exercicio_Usuarios\Exercicio_Usuarios\obj\x86\Debug\Exercicio_Usuarios.frmForgot.resources

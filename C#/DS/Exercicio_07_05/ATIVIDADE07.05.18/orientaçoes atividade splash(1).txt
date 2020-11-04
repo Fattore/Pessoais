@@ -1,0 +1,17 @@
+Tela Splash
+Estudos dos componentes: Form, Timer e seus métodos, eventos e propriedades.
+
+Após leitura do conteúdo da apostila, elaborar uma Aplicação qualquer contendo uma tela de Abertura e um formulário principal (que deverá ser aberto automaticamente logo após a tela de Splash.
+
+1. Atividade individual
+2. prazo e forma de entrega: 23/04 até as 23h . E-mail recebido após o prazo atividade será cancelada.
+   enviar para: jorge.simeao@etec.sp.gov.br
+   titulo da atividade: tela de splash.
+   
+3. Use sua criatividade.
+4. Atividade será utilizada para fechamento da mençao parcial.
+
+bom trabalho.
+Abraços.
+
+Prof. Jorge Simeão

@@ -1,0 +1,2 @@
+            String convert = infos.estadoLamp ? "true" : "false";
+            //converte bool em string

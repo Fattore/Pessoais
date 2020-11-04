@@ -1,0 +1,14 @@
+C:\Users\Etec\AppData\Local\Temporary Projects\Projeto_Televisao\obj\x86\Debug\Projeto_Televisao.FrmTV.resources
+C:\Users\Etec\AppData\Local\Temporary Projects\Projeto_Televisao\obj\x86\Debug\Projeto_Televisao.Properties.Resources.resources
+C:\Users\Etec\AppData\Local\Temporary Projects\Projeto_Televisao\obj\x86\Debug\Projeto_Televisao.csproj.GenerateResource.Cache
+C:\Users\Etec\AppData\Local\Temporary Projects\Projeto_Televisao\bin\Debug\Projeto_Televisao.exe
+C:\Users\Etec\AppData\Local\Temporary Projects\Projeto_Televisao\bin\Debug\Projeto_Televisao.pdb
+C:\Users\Etec\AppData\Local\Temporary Projects\Projeto_Televisao\obj\x86\Debug\Projeto_Televisao.exe
+C:\Users\Etec\AppData\Local\Temporary Projects\Projeto_Televisao\obj\x86\Debug\Projeto_Televisao.pdb
+C:\Users\Etec\Desktop\Nova pasta\Projeto_Televisao\Projeto_Televisao\obj\x86\Debug\Projeto_Televisao.exe
+C:\Users\Etec\Desktop\Nova pasta\Projeto_Televisao\Projeto_Televisao\obj\x86\Debug\Projeto_Televisao.pdb
+C:\Users\Etec\Desktop\Nova pasta\Projeto_Televisao\Projeto_Televisao\obj\x86\Debug\Projeto_Televisao.FrmTV.resources
+C:\Users\Etec\Desktop\Nova pasta\Projeto_Televisao\Projeto_Televisao\obj\x86\Debug\Projeto_Televisao.Properties.Resources.resources
+C:\Users\Etec\Desktop\Nova pasta\Projeto_Televisao\Projeto_Televisao\obj\x86\Debug\Projeto_Televisao.csproj.GenerateResource.Cache
+C:\Users\Etec\Desktop\Nova pasta\Projeto_Televisao\Projeto_Televisao\bin\Debug\Projeto_Televisao.exe
+C:\Users\Etec\Desktop\Nova pasta\Projeto_Televisao\Projeto_Televisao\bin\Debug\Projeto_Televisao.pdb

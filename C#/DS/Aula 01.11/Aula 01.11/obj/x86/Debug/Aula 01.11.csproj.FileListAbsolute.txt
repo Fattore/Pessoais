@@ -1,0 +1,8 @@
+D:\Aula 01.11\Aula 01.11\bin\Debug\Aula 01.11.exe
+D:\Aula 01.11\Aula 01.11\bin\Debug\Aula 01.11.pdb
+D:\Aula 01.11\Aula 01.11\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\Aula 01.11\Aula 01.11\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Aula 01.11\Aula 01.11\obj\x86\Debug\Aula 01.11.csproj.GenerateResource.Cache
+D:\Aula 01.11\Aula 01.11\obj\x86\Debug\Aula 01.11.exe
+D:\Aula 01.11\Aula 01.11\obj\x86\Debug\Aula 01.11.pdb
+D:\Aula 01.11\Aula 01.11\obj\x86\Debug\Aula 01.11.csprojResolveAssemblyReference.cache

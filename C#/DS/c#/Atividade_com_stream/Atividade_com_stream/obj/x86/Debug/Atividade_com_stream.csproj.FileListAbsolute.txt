@@ -1,0 +1,9 @@
+C:\Users\Etec\Desktop\c#\Atividade_com_stream\Atividade_com_stream\bin\Debug\Atividade_com_stream.exe
+C:\Users\Etec\Desktop\c#\Atividade_com_stream\Atividade_com_stream\bin\Debug\Atividade_com_stream.pdb
+C:\Users\Etec\Desktop\c#\Atividade_com_stream\Atividade_com_stream\obj\x86\Debug\Atividade_com_stream.frmAgendaContato.resources
+C:\Users\Etec\Desktop\c#\Atividade_com_stream\Atividade_com_stream\obj\x86\Debug\Atividade_com_stream.Properties.Resources.resources
+C:\Users\Etec\Desktop\c#\Atividade_com_stream\Atividade_com_stream\obj\x86\Debug\Atividade_com_stream.csproj.GenerateResource.Cache
+C:\Users\Etec\Desktop\c#\Atividade_com_stream\Atividade_com_stream\obj\x86\Debug\Atividade_com_stream.exe
+C:\Users\Etec\Desktop\c#\Atividade_com_stream\Atividade_com_stream\obj\x86\Debug\Atividade_com_stream.pdb
+D:\MURILO\escola\ETEC FINAL\ds\c#\Atividade_com_stream\Atividade_com_stream\obj\x86\Debug\Atividade_com_stream.exe
+D:\MURILO\escola\ETEC FINAL\ds\c#\Atividade_com_stream\Atividade_com_stream\obj\x86\Debug\Atividade_com_stream.pdb

@@ -1,0 +1,14 @@
+C:\Users\Etec\Desktop\Atividade C# Murilo\Interruptor\Interruptor\bin\Debug\Interruptor.exe
+C:\Users\Etec\Desktop\Atividade C# Murilo\Interruptor\Interruptor\bin\Debug\Interruptor.pdb
+C:\Users\Etec\Desktop\Atividade C# Murilo\Interruptor\Interruptor\obj\x86\Debug\Interruptor.Properties.Resources.resources
+C:\Users\Etec\Desktop\Atividade C# Murilo\Interruptor\Interruptor\obj\x86\Debug\Interruptor.csproj.GenerateResource.Cache
+C:\Users\Etec\Desktop\Atividade C# Murilo\Interruptor\Interruptor\obj\x86\Debug\Interruptor.exe
+C:\Users\Etec\Desktop\Atividade C# Murilo\Interruptor\Interruptor\obj\x86\Debug\Interruptor.pdb
+C:\Users\Etec\Desktop\Atividade C# Murilo\Interruptor\Interruptor\obj\x86\Debug\Interruptor.FrmMain.resources
+C:\Users\Etec\Desktop\Nova pasta\Interruptor\Interruptor\obj\x86\Debug\Interruptor.exe
+C:\Users\Etec\Desktop\Nova pasta\Interruptor\Interruptor\obj\x86\Debug\Interruptor.pdb
+C:\Users\Etec\Desktop\Nova pasta\Interruptor\Interruptor\bin\Debug\Interruptor.exe
+C:\Users\Etec\Desktop\Nova pasta\Interruptor\Interruptor\bin\Debug\Interruptor.pdb
+C:\Users\Etec\Desktop\Nova pasta\Interruptor\Interruptor\obj\x86\Debug\Interruptor.FrmMain.resources
+C:\Users\Etec\Desktop\Nova pasta\Interruptor\Interruptor\obj\x86\Debug\Interruptor.Properties.Resources.resources
+C:\Users\Etec\Desktop\Nova pasta\Interruptor\Interruptor\obj\x86\Debug\Interruptor.csproj.GenerateResource.Cache

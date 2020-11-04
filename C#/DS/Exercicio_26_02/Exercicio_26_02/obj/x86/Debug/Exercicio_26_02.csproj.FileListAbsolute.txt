@@ -1,0 +1,17 @@
+D:\MURILO\escola\ETEC FINAL\ds\Exercicio_26_02\Exercicio_26_02\bin\Debug\Exercicio_26_02.exe
+D:\MURILO\escola\ETEC FINAL\ds\Exercicio_26_02\Exercicio_26_02\bin\Debug\Exercicio_26_02.pdb
+D:\MURILO\escola\ETEC FINAL\ds\Exercicio_26_02\Exercicio_26_02\obj\x86\Debug\Exercicio_26_02.frmPrincipal.resources
+D:\MURILO\escola\ETEC FINAL\ds\Exercicio_26_02\Exercicio_26_02\obj\x86\Debug\Exercicio_26_02.Properties.Resources.resources
+D:\MURILO\escola\ETEC FINAL\ds\Exercicio_26_02\Exercicio_26_02\obj\x86\Debug\Exercicio_26_02.csproj.GenerateResource.Cache
+D:\MURILO\escola\ETEC FINAL\ds\Exercicio_26_02\Exercicio_26_02\obj\x86\Debug\Exercicio_26_02.csproj.CoreCompileInputs.cache
+D:\MURILO\escola\ETEC FINAL\ds\Exercicio_26_02\Exercicio_26_02\obj\x86\Debug\Exercicio_26_02.exe
+D:\MURILO\escola\ETEC FINAL\ds\Exercicio_26_02\Exercicio_26_02\obj\x86\Debug\Exercicio_26_02.pdb
+D:\MURILO\escola\ETEC FINAL\ds\Exercicio_26_02\Exercicio_26_02\obj\x86\Debug\Exercicio_26_02.csprojResolveAssemblyReference.cache
+C:\Users\Etec\Desktop\Atividade C# Murilo\Exercicio_26_02\Exercicio_26_02\obj\x86\Debug\Exercicio_26_02.exe
+C:\Users\Etec\Desktop\Atividade C# Murilo\Exercicio_26_02\Exercicio_26_02\obj\x86\Debug\Exercicio_26_02.pdb
+C:\Users\Etec\Desktop\Atividade C# Murilo\Exercicio_26_02\Exercicio_26_02\bin\Debug\Exercicio_26_02.exe
+C:\Users\Etec\Desktop\Atividade C# Murilo\Exercicio_26_02\Exercicio_26_02\bin\Debug\Exercicio_26_02.pdb
+C:\Users\Etec\Desktop\Atividade C# Murilo\Exercicio_26_02\Exercicio_26_02\obj\x86\Debug\Exercicio_26_02.csprojResolveAssemblyReference.cache
+C:\Users\Etec\Desktop\Atividade C# Murilo\Exercicio_26_02\Exercicio_26_02\obj\x86\Debug\Exercicio_26_02.frmPrincipal.resources
+C:\Users\Etec\Desktop\Atividade C# Murilo\Exercicio_26_02\Exercicio_26_02\obj\x86\Debug\Exercicio_26_02.Properties.Resources.resources
+C:\Users\Etec\Desktop\Atividade C# Murilo\Exercicio_26_02\Exercicio_26_02\obj\x86\Debug\Exercicio_26_02.csproj.GenerateResource.Cache

@@ -1,0 +1,18 @@
+C:\Users\Etec\AppData\Local\Temporary Projects\Jogo_velha\bin\Debug\Jogo_velha.exe
+C:\Users\Etec\AppData\Local\Temporary Projects\Jogo_velha\bin\Debug\Jogo_velha.pdb
+C:\Users\Etec\AppData\Local\Temporary Projects\Jogo_velha\obj\x86\Debug\Jogo_velha.frmMain.resources
+C:\Users\Etec\AppData\Local\Temporary Projects\Jogo_velha\obj\x86\Debug\Jogo_velha.Properties.Resources.resources
+C:\Users\Etec\AppData\Local\Temporary Projects\Jogo_velha\obj\x86\Debug\Jogo_velha.csproj.GenerateResource.Cache
+C:\Users\Etec\AppData\Local\Temporary Projects\Jogo_velha\obj\x86\Debug\Jogo_velha.exe
+C:\Users\Etec\AppData\Local\Temporary Projects\Jogo_velha\obj\x86\Debug\Jogo_velha.pdb
+C:\Users\Etec\Desktop\Exercicio_07_05\Jogo_velha\Jogo_velha\obj\x86\Debug\Jogo_velha.exe
+C:\Users\Etec\Desktop\Exercicio_07_05\Jogo_velha\Jogo_velha\obj\x86\Debug\Jogo_velha.pdb
+C:\Users\Etec\Desktop\Exercicio_07_05\Jogo_velha\Jogo_velha\bin\Debug\Jogo_velha.exe
+C:\Users\Etec\Desktop\Exercicio_07_05\Jogo_velha\Jogo_velha\bin\Debug\Jogo_velha.pdb
+C:\Users\Etec\Desktop\Exercicio_07_05\Jogo_velha\Jogo_velha\obj\x86\Debug\Jogo_velha.frmMain.resources
+C:\Users\Etec\Desktop\Exercicio_07_05\Jogo_velha\Jogo_velha\obj\x86\Debug\Jogo_velha.Properties.Resources.resources
+C:\Users\Etec\Desktop\Exercicio_07_05\Jogo_velha\Jogo_velha\obj\x86\Debug\Jogo_velha.csproj.GenerateResource.Cache
+C:\Users\Etec\Desktop\true\Jogo_velha\Jogo_velha\obj\x86\Debug\Jogo_velha.exe
+C:\Users\Etec\Desktop\true\Jogo_velha\Jogo_velha\obj\x86\Debug\Jogo_velha.pdb
+C:\Users\Etec\Desktop\Exercicio_07_05\true\Jogo_velha\Jogo_velha\obj\x86\Debug\Jogo_velha.exe
+C:\Users\Etec\Desktop\Exercicio_07_05\true\Jogo_velha\Jogo_velha\obj\x86\Debug\Jogo_velha.pdb

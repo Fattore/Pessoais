@@ -1,0 +1,9 @@
+C:\Users\PCLab01_02\AppData\Local\Temporary Projects\Calculo_IMC\bin\Debug\Calculo_IMC.exe
+C:\Users\PCLab01_02\AppData\Local\Temporary Projects\Calculo_IMC\bin\Debug\Calculo_IMC.pdb
+C:\Users\PCLab01_02\AppData\Local\Temporary Projects\Calculo_IMC\obj\x86\Debug\Calculo_IMC.frmIMC.resources
+C:\Users\PCLab01_02\AppData\Local\Temporary Projects\Calculo_IMC\obj\x86\Debug\Calculo_IMC.Properties.Resources.resources
+C:\Users\PCLab01_02\AppData\Local\Temporary Projects\Calculo_IMC\obj\x86\Debug\Calculo_IMC.csproj.GenerateResource.Cache
+C:\Users\PCLab01_02\AppData\Local\Temporary Projects\Calculo_IMC\obj\x86\Debug\Calculo_IMC.exe
+C:\Users\PCLab01_02\AppData\Local\Temporary Projects\Calculo_IMC\obj\x86\Debug\Calculo_IMC.pdb
+C:\Users\PCLab01_02\Desktop\Calculo_IMC\Calculo_IMC\obj\x86\Debug\Calculo_IMC.exe
+C:\Users\PCLab01_02\Desktop\Calculo_IMC\Calculo_IMC\obj\x86\Debug\Calculo_IMC.pdb
