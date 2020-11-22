@@ -1,0 +1,249 @@
+.cVdVkh {
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+    padding-bottom: 59.01%;
+    -webkit-mask-image: linear-gradient(rgb(0, 0, 0) 65%, rgba(0, 0, 0, 0) 98%);
+}
+
+#riotbar-bar {
+    border-bottom: 2px solid rgba(51, 51, 51, 0.25);
+    display: -ms-flexbox;
+    display: flex;
+}
+
+#riotbar-bar {
+    background-color: #111111;
+    border-bottom: 2px solid #333333;
+    font-family: "FF Mark W05";
+    font-size: 14px !important;
+    font-weight: bold;
+    height: 80px;
+    line-height: normal;
+    position: relative;
+    text-align: left;
+    width: 100%;
+    z-index: 3000000;
+}
+
+#riotbar-bar {
+    border-bottom: 2px solid rgba(51, 51, 51, 0.25);
+    display: -ms-flexbox;
+    display: flex;
+}
+
+#riotbar-bar {
+    background-color: #111111;
+    border-bottom: 2px solid #333333;
+    font-family: "FF Mark W05";
+    font-size: 14px !important;
+    font-weight: bold;
+    height: 80px;
+    line-height: normal;
+    position: relative;
+    text-align: left;
+    width: 100%;
+    z-index: 3000000;
+}
+
+.riotbar-base-element, .riotbar-base-element * {
+    box-sizing: border-box;
+    position: static;
+}
+
+.riotbar-base-element, .riotbar-base-element div, .riotbar-base-element span, .riotbar-base-element h1, .riotbar-base-element h2, .riotbar-base-element h3, .riotbar-base-element h4, .riotbar-base-element h5, .riotbar-base-element h6, .riotbar-base-element a, .riotbar-base-element img, .riotbar-base-element ol, .riotbar-base-element ul, .riotbar-base-element li, .riotbar-base-element strong, .riotbar-base-element em {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    font-family: "FF Mark W05";
+    vertical-align: baseline;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    -webkit-font-smoothing: antialiased;
+}
+
+.riotbar-base-element, .riotbar-base-element * {
+    box-sizing: border-box;
+    position: static;
+}
+
+.riotbar-base-element, .riotbar-base-element div, .riotbar-base-element span, .riotbar-base-element h1, .riotbar-base-element h2, .riotbar-base-element h3, .riotbar-base-element h4, .riotbar-base-element h5, .riotbar-base-element h6, .riotbar-base-element a, .riotbar-base-element img, .riotbar-base-element ol, .riotbar-base-element ul, .riotbar-base-element li, .riotbar-base-element strong, .riotbar-base-element em {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    font-family: "FF Mark W05";
+    vertical-align: baseline;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    -webkit-font-smoothing: antialiased;
+}
+
+.riotbar-root {
+    position: static;
+}
+
+.riotbar-root {
+    position: static;
+}
+
+#riotbar-bar-wrapper.riotbar-sticky {
+    position: fixed;
+    z-index: 10000;
+}
+
+#riotbar-bar-wrapper.riotbar-sticky {
+    position: fixed;
+    z-index: 10000;
+}
+
+#riotbar-bar-wrapper {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 0;
+    border: 0;
+    width: 100%;
+}
+
+#riotbar-bar-wrapper {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 0;
+    border: 0;
+    width: 100%;
+}
+
+#riotbar-bar .riotbar-left-content {
+    height: 80px;
+    padding-top: 15px;
+    padding-right: 30px;
+}
+
+#riotbar-bar .riotbar-left-content, #riotbar-bar .riotbar-content {
+    opacity: 1;
+    transition: opacity 0.5s cubic-bezier(0.06, 0.81, 0, 0.98) 0s;
+}
+
+#riotbar-bar .riotbar-left-content {
+    height: 80px;
+    padding-top: 15px;
+    padding-right: 30px;
+}
+
+#riotbar-bar .riotbar-left-content, #riotbar-bar .riotbar-content {
+    opacity: 1;
+    transition: opacity 0.5s cubic-bezier(0.06, 0.81, 0, 0.98) 0s;
+}
+
+.riotbar-base-element, .riotbar-base-element div, .riotbar-base-element span, .riotbar-base-element h1, .riotbar-base-element h2, .riotbar-base-element h3, .riotbar-base-element h4, .riotbar-base-element h5, .riotbar-base-element h6, .riotbar-base-element a, .riotbar-base-element img, .riotbar-base-element ol, .riotbar-base-element ul, .riotbar-base-element li, .riotbar-base-element strong, .riotbar-base-element em {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    font-family: "FF Mark W05";
+    vertical-align: baseline;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    -webkit-font-smoothing: antialiased;
+}
+
+.riotbar-base-element, .riotbar-base-element div, .riotbar-base-element span, .riotbar-base-element h1, .riotbar-base-element h2, .riotbar-base-element h3, .riotbar-base-element h4, .riotbar-base-element h5, .riotbar-base-element h6, .riotbar-base-element a, .riotbar-base-element img, .riotbar-base-element ol, .riotbar-base-element ul, .riotbar-base-element li, .riotbar-base-element strong, .riotbar-base-element em {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    font-family: "FF Mark W05";
+    vertical-align: baseline;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    -webkit-font-smoothing: antialiased;
+}
+
+.riotbar-base-element, .riotbar-base-element * {
+    box-sizing: border-box;
+    position: static;
+}
+
+.riotbar-base-element, .riotbar-base-element * {
+    box-sizing: border-box;
+    position: static;
+}
+
+#riotbar-navmenu {
+    color: #F9F9F9;
+    font-size: 14px;
+    height: 50px;
+}
+
+#riotbar-navmenu {
+    color: #F9F9F9;
+    font-size: 14px;
+    height: 50px;
+}
+
+.riotbar-base-element, .riotbar-base-element div, .riotbar-base-element span, .riotbar-base-element h1, .riotbar-base-element h2, .riotbar-base-element h3, .riotbar-base-element h4, .riotbar-base-element h5, .riotbar-base-element h6, .riotbar-base-element a, .riotbar-base-element img, .riotbar-base-element ol, .riotbar-base-element ul, .riotbar-base-element li, .riotbar-base-element strong, .riotbar-base-element em {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    font-family: "FF Mark W05";
+    vertical-align: baseline;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    -webkit-font-smoothing: antialiased;
+}
+
+.riotbar-base-element, .riotbar-base-element div, .riotbar-base-element span, .riotbar-base-element h1, .riotbar-base-element h2, .riotbar-base-element h3, .riotbar-base-element h4, .riotbar-base-element h5, .riotbar-base-element h6, .riotbar-base-element a, .riotbar-base-element img, .riotbar-base-element ol, .riotbar-base-element ul, .riotbar-base-element li, .riotbar-base-element strong, .riotbar-base-element em {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    font-family: "FF Mark W05";
+    vertical-align: baseline;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    -webkit-font-smoothing: antialiased;
+}
+
+.riotbar-base-element, .riotbar-base-element * {
+    box-sizing: border-box;
+    position: static;
+}
+
+.riotbar-base-element, .riotbar-base-element * {
+    box-sizing: border-box;
+    position: static;
+}
