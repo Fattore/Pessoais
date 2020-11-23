@@ -7,6 +7,14 @@
   <meta charset="utf-8">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <script>
+    const btn = document.getElementById('someBtnId');
+    const someHeader = document.getElementById('someHeader');
+
+    btn.addEventListener('click', function() {
+      someHeader.textContent="Antes defensores honrados de Shurima contra o temido Vazio, Aatrox e seus irmãos acabaram se tornando uma ameaça ainda maior para Runeterra, e a única coisa capaz de derrotá-los foi um tipo de feitiçaria mortal e traiçoeira. Mas após séculos de encarceramento, Aatrox foi o primeiro a encontrar a liberdade novamente, e ele saiu corrompendo e transformando quem fosse tolo o suficiente de tentar tocar na arma mágica que continha sua essência. Agora, com um corpo roubado, ele vaga por Runeterra transfigurado, em uma versão bizarra da sua forma anterior, buscando uma vingança apocalíptica.";
+    });
+  </script>
   <script src="https://js-agent.newrelic.com/nr-spa-1130.min.js"></script>
   <script>try {
       document.documentElement.classList.add('js');
@@ -27,14 +35,14 @@
   <link data-react-helmet="true" rel="icon"
     href="https://lolstatic-a.akamaihd.net/frontpage/apps/prod/harbinger-l10-website/pt-br/production/pt-br/static/favicon-0cf29ce019f7cd1e7b24f85ab6ff97da.ico">
   <link data-react-helmet="true" type="text/css" rel="stylesheet"
-    href="https://s.lolstatic.com/awesomefonts/1.0.0/lol-fonts.css">
+    href="https://github.com/Fattore/Pessoais/blob/a41e491e9482210cecc7ea656b086966334e7ba0/LoLSite%2Flolstatic%2Fawesomefonts%2F1.0.0%2Flol-fonts.css">
   <link data-react-helmet="true" type="text/css" rel="stylesheet"
-    href="D:/Programação/Pessoais/LoLSite/css/configs.css">
+    href="https://github.com/Fattore/Pessoais/blob/54cb8fd298f403009277bfb1b83df6660efc0563/LoLSite%2Fcss%2Fconfigs.css">
   <link data-react-helmet="true" rel="preload"
-    href="https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-Regular.woff" as="font" type="font/woff"
+    href="https://github.com/Fattore/Pessoais/blob/master/LoLSite%2Flolstatic%2FBeaufortforLOL-Regular.woff" as="font" type="font/woff"
     crossorigin="anonymous">
   <link data-react-helmet="true" rel="preload"
-    href="https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-Bold.woff" as="font" type="font/woff"
+    href="https://github.com/Fattore/Pessoais/blob/master/LoLSite%2Flolstatic%2FBeaufortforLOL-Bold.woff" as="font" type="font/woff"
     crossorigin="anonymous">
   <meta data-react-helmet="true" name="format-detection" content="telephone=no">
   <meta data-react-helmet="true" name="description"
@@ -8434,10 +8442,6 @@
     }
   </style>
 </head>
-<!--
-===========================================================================================================
--->
-
 <body class="riotbar-present" style="margin-top: 80px;">
   <script type="text/javascript">
       (function (a, c, e, b, d, f) { a[b] = a[b] || []; a[b].push({ "gtm.start": (new Date).getTime(), event: "gtm.js" }); c.className += " " + e; d.end = f = function () { c.className = c.className.replace(RegExp(" ?" + e), "") }; (a[b] = a[b] || []).hide = d; a.setTimeout(function () { f(); d.end = null }, 2E3) })(window, document.documentElement, "optimize-loading", "dataLayer", { "GTM-N98J": !0 });
@@ -8566,9 +8570,9 @@
                   <p>Antes defensores honrados de Shurima contra o temido Vazio, Aatrox e seus irmãos acabaram se
                     tornando uma ameaça ainda maior para Runeterra, e a única coisa capaz de derrotá-los foi um tipo de
                     feitiçaria mortal e traiçoeira. Mas após séculos de...
-                    <!-- -->
-                    <button>Ver mais</button>
+                    <button id="someBtnId">Ver mais</button>
                   </p>
+                  <h1 id="someHeader"></h1>
                 </div>
               </div>
               <div class="style__LinksWrapper-sc-1o884zt-23 bnDJzE">
