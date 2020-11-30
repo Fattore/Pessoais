@@ -1,6 +1,6 @@
 .bg-image {
     /* The image used */
-    background-image: url("photographer.jpg");
+    background-image: url("https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aatrox_0.jpg");
     
     /* Add the blur effect */
     filter: blur(8px);
@@ -14,3 +14,11 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+.top-of-another {
+    position: absolute;
+    top: 30px;
+    left: 30px;
+    border: 1px green solid;
+}
+
