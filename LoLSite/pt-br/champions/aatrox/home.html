@@ -13,22 +13,111 @@
   <title>Create your own champion</title>
   <!--SEMPRE MUDAR O CAMINHO COM BASE NO PC-->
   <link data-react-helmet="true" type="text/css" rel="stylesheet"
-    href="C:\Users\info\Documents\Murilo-Work\Pessoais\LoLSite\lolstatic\awesomefonts\1.0.0\lol-fonts.css">
+    href="D:\Programação\Pessoais\LoLSite\lolstatic\awesomefonts\1.0.0\lol-fonts.css">
   <link data-react-helmet="true" type="text/css" rel="stylesheet"
-    href="C:\Users\info\Documents\Murilo-Work\Pessoais\LoLSite\css\configs.css">
+    href="D:\Programação\Pessoais\LoLSite\css\configs.css">
     <link data-react-helmet="true" type="text/css" rel="stylesheet"
-    href="C:\Users\info\Documents\Murilo-Work\Pessoais\LoLSite\css\newConfigs.css">
+    href="D:\Programação\Pessoais\LoLSite\css\newConfigs.css">
   <link data-react-helmet="true"
-    href="C:\Users\info\Documents\Murilo-Work\Pessoais\LoLSite\lolstatic\BeaufortforLOL-Regular.woff" as="font" type="font/woff"
+    href="D:\Programação\Pessoais\LoLSite\lolstatic\BeaufortforLOL-Regular.woff" as="font" type="font/woff"
     crossorigin="anonymous">
   <link data-react-helmet="true"
-    href="C:\Users\info\Documents\Murilo-Work\Pessoais\LoLSite\lolstatic\BeaufortforLOL-Bold.woff" as="font" type="font/woff"
+    href="D:\Programação\Pessoais\LoLSite\lolstatic\BeaufortforLOL-Bold.woff" as="font" type="font/woff"
     crossorigin="anonymous">
   <style data-react-helmet="true" type="text/css">
     .async-hide {
       opacity: 0 !important;
     }
   </style>
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>
+  <style type="text/css">
+  .form-style-8{
+    font-family: 'Open Sans Condensed', arial, sans;
+    width: 500px;
+    padding: 30px;
+    background: #FFFFFF;
+    margin: 50px auto;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.22);
+    -moz-box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.22);
+    -webkit-box-shadow:  0px 0px 15px rgba(0, 0, 0, 0.22);
+  
+  }
+  .form-style-8 h2{
+    background: #4D4D4D;
+    text-transform: uppercase;
+    font-family: 'Open Sans Condensed', sans-serif;
+    color: #797979;
+    font-size: 18px;
+    font-weight: 100;
+    padding: 20px;
+    margin: -30px -30px 30px -30px;
+    width: initial;
+  }
+  .form-style-8 input[type="text"],
+  .form-style-8 input[type="date"],
+  .form-style-8 input[type="datetime"],
+  .form-style-8 input[type="email"],
+  .form-style-8 input[type="number"],
+  .form-style-8 input[type="search"],
+  .form-style-8 input[type="time"],
+  .form-style-8 input[type="url"],
+  .form-style-8 input[type="password"],
+  .form-style-8 textarea,
+  .form-style-8 select 
+  {
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    outline: none;
+    display: block;
+    width: 100%;
+    padding: 7px;
+    border: none;
+    border-bottom: 1px solid #ddd;
+    background: transparent;
+    margin-bottom: 10px;
+    font: 16px Arial, Helvetica, sans-serif;
+    height: 45px;
+  }
+  .form-style-8 textarea{
+    resize:none;
+    overflow: hidden;
+  }
+  .form-style-8 input[type="button"], 
+  .form-style-8 input[type="submit"]{
+    -moz-box-shadow: inset 0px 1px 0px 0px #45D6D6;
+    -webkit-box-shadow: inset 0px 1px 0px 0px #45D6D6;
+    box-shadow: inset 0px 1px 0px 0px #45D6D6;
+    background-color: #2CBBBB;
+    border: 1px solid #27A0A0;
+    display: inline-block;
+    cursor: pointer;
+    color: #FFFFFF;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 14px;
+    padding: 8px 18px;
+    text-decoration: none;
+    text-transform: uppercase;
+  }
+  .form-style-8 input[type="button"]:hover, 
+  .form-style-8 input[type="submit"]:hover {
+    background:linear-gradient(to bottom, #34CACA 5%, #30C9C9 100%);
+    background-color:#34CACA;
+  }
+  </style>
+  <script type="text/javascript">
+    //auto expand textarea
+    function adjust_textarea(h) {
+        h.style.height = "20px";
+        h.style.height = (h.scrollHeight)+"px";
+    }
+  </script>
+  <script type="text/javascript">
+    //auto expand textarea
+    function changehtml() {
+      document.getElementById("create").onclick = function() {}
+    }
+  </script>
   <style type="text/css">
     #riotbar-bar svg,
     #riotbar-subbar .riotbar-footer svg,
@@ -3934,10 +4023,10 @@
         <section class="style__Wrapper-sc-1o884zt-30 koIGpu">
           <div class="style__BackgroundAsset-sc-1o884zt-1 hVViBI">
             <div class="style__BackgroundImage-sc-1o884zt-2 cIdAXF">
-              <img src="https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aatrox_0.jpg"
+              <img src="D:\Programação\Pessoais\LoLSite\cdn\img\champion\splash\Aatrox_0.jpg"
               style="object-fit:cover;object-position:center 20%" alt="" class="style__NoScriptImg-sc-1rs2qnb-0 style__Img-sc-1rs2qnb-1 bhdZGR" data-object-fit="cover" data-object-position="center 20%">
               <noscript>
-                <img src="https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aatrox_0.jpg"
+                <img src="D:\Programação\Pessoais\LoLSite\cdn\img\champion\splash\Aatrox_0.jpg"
                 style="object-fit:cover;object-position:center 20%" alt="" class="style__NoScriptImg-sc-1rs2qnb-0 jenRBy" />
               </noscript>
             </div>
@@ -3953,118 +4042,31 @@
             <div class="style__Content-sc-1b3i3yo-3 kUWoww"></div>
           </div>
           <div class="style__SectionInner-sc-1o884zt-3 dBODQj">
-            <div class="style__ForegroundAsset-sc-1o884zt-4 cVdVkh">
-              <img src="https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aatrox_0.jpg"
-                style="object-fit:cover;object-position:center 20%" alt=""
-                class="style__NoScriptImg-sc-1rs2qnb-0 style__Img-sc-1rs2qnb-1 bhdZGR" data-object-fit="cover"
-                data-object-position="center 20%"/>
-              <noscript>
-                <img src="https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aatrox_0.jpg"
-                  style="object-fit:cover;object-position:center 20%" alt=""
-                  class="style__NoScriptImg-sc-1rs2qnb-0 jenRBy" />
-              </noscript>
-            </div>
-            <div class="style__Dock-sc-1o884zt-5 iBDQSG">
-              <div class="style__Container-sc-1uho5c3-0 gvLtET">
-                <canvas class="style__Canvas-sc-1uho5c3-1 dsXNcy" width="1066" height="303"
-                  style="width: 1066px; height: 303px; left: -2px; top: -2px;"></canvas>
-              </div>
-              <div class="style__Name-sc-1o884zt-6 kxkfBo">
-                <div class="style__Wrapper-sc-14gxj1e-0 ctXuuX">
-                  <h1 class="style__Heading-sc-14gxj1e-1 jWvpDq">
-                    <span class="style__Intro-sc-14gxj1e-2 fmCNnE">
-                      <div class="style__RevealWrapper-cwgjme-0 jaWYak inline show-nw"
-                        style="animation-duration: 2800ms; animation-delay: 600ms; animation-timing-function: cubic-bezier(0.165, 0.84, 0.44, 1);">
-                        <span>
-                          a Espada Darkin
-                        </span>
-                      </div>
-                    </span>
-                    <strong class="style__Title-sc-14gxj1e-3 iLTyui">
-                      <div class="style__RevealWrapper-cwgjme-0 jaWYak inline show-se"
-                        style="animation-duration: 2000ms; animation-delay: 500ms; animation-timing-function: cubic-bezier(0.165, 0.84, 0.44, 1);">
-                        <span>
-                          Aatrox
-                        </span>
-                      </div>
-                    </strong>
-                  </h1>
-                </div>
-              </div>
-              <div class="style__Info-sc-1o884zt-7 lduPls">
-                <div class="style__Specs-sc-1o884zt-8 bMKODi">
-                  <ul class="style__SpecsList-sc-1o884zt-11 mFnFm">
-                    <li class="style__SpecsItem-sc-1o884zt-12 hwEUco">
-                      <div class="style__SpecsItemIcon-sc-1o884zt-13 jqywPe">
-                        <svg viewBox="0 0 100 100" class="style__StyledSpecsIcon-sc-1o884zt-17-l cSGyiQ">
-                          <path
-                            d="M67.84 56.35v5.5c8.62-8.62 14.37 0 14.37 0C112.14 40.78 90.35 2 90.35 2s-.72 17.24-15.08 27.77v16.52c-.24 4.79-3.84 7.9-7.43 10.06M17.79 62.09s4.07-6.46 10.78-2.63L20.91 48.2l6.7-16c-17.24-10.54-18-29.93-18-29.93S-12.14 41 17.79 62.09M26.89 83.89l5.51-18.68-.24-.48L19.23 77.9A17.78 17.78 0 017.5 83.17H3l-1 2.39 12 11.5zM92.27 83.89a16.24 16.24 0 01-11.74-5.27L68.8 66.88l3.83 17.72L85.8 98l12-11.49-1-2.4zM55.87 42.7c0 .24-.24.48-.24.71h.72c5.75.48 7.66 2.64 9.1 7.67a9.35 9.35 0 002.39-1.92c1-1 1.68-1.67 1.68-2.63V28.09a2 2 0 00-1.68-1.92l-31.37-5.74H36a2.39 2.39 0 00-2.39 2.39v6.71l24.9 3.35z">
-                          </path>
-                          <path
-                            d="M60.18 54c-1.2-5.27-1.44-4.55-5.75-4.79L40.78 48v-3.87h5.51A4.09 4.09 0 0050.36 41l1-3.35L32.4 35l-5 12.22 11.74 17-5.54 18.47L49.88 98l16.53-15.07s-6.23-28.5-6.23-29M49.88 2.23l-4.79 10.29 4.79 3.83 4.79-3.83zM62.1 9.41l1.43 6h6l2.87-11zM30.25 15.4h6l.24-.72 1.2-5.27-10.3-5z">
-                          </path>
-                        </svg>
-                      </div>
-                      <div class="style__SpecsItemType-sc-1o884zt-14 eFkeis">
-                        Função
-                      </div>
-                      <div class="style__SpecsItemValue-sc-1o884zt-15 ieHviE">
-                        Lutador
-                      </div>
-                    </li>
-                    <li class="style__SpecsItem-sc-1o884zt-12 TZXkX">
-                      <div class="style__SpecsItemIcon-sc-1o884zt-13 jqywPe">
-                        <span
-                          class="style__Wrapper-sc-1jcifle-0 eWxRWE style__StyledChampionDifficulty-sc-1o884zt-16 jmKouw"
-                          aria-label="Moderado">
-                          <span class="style__Container-sc-1jcifle-1 ksGkFC">
-                            <span class="style__Item-sc-1jcifle-2 fIcCoS"></span>
-                            <span class="style__Item-sc-1jcifle-2 fIcCoS"></span>
-                            <span class="style__Item-sc-1jcifle-2 cfwQoK"></span>
-                          </span>
-                        </span>
-                      </div>
-                      <div class="style__SpecsItemType-sc-1o884zt-14 eFkeis">Dificuldade</div>
-                      <div class="style__SpecsItemValue-sc-1o884zt-15 ieHviE">Moderado</div>
-                    </li>
-                  </ul>
-                </div>
-                <div class="style__InfoDivider-sc-1o884zt-10 fKThfc"></div>
-                <div class="style__Desc-sc-1o884zt-9 hZPZqS">
-                  <p>Antes defensores honrados de Shurima contra o temido Vazio, Aatrox e seus irmãos acabaram se
-                    tornando uma ameaça ainda maior para Runeterra, e a única coisa capaz de derrotá-los foi um tipo de
-                    feitiçaria mortal e traiçoeira. Mas após séculos de...
-                    <button id="someBtnId">Ver mais</button>
-                  </p>
-                  <h1 id="someHeader"></h1>
-                </div>
-              </div>
-              <div class="style__LinksWrapper-sc-1o884zt-23 bnDJzE">
-                <div class="style__Links-sc-1o884zt-24 hIjzWH">
-                  <p class="style__LinksLabel-sc-1o884zt-25 glmuNH">
-                    Maestria de Campeão
-                  </p>
-                  <ul class="style__LinksList-sc-1o884zt-26 fVLwJg">
-                    <li class="style__LinksItem-sc-1o884zt-27 gfSegN">
-                      <a href="https://www.leagueofgraphs.com"
-                        class="style__LinksItemLink-sc-1o884zt-28 epMhoL">
-                        LeagueofGraphs.com
-                      </a>
-                    </li>
-                    <li class="style__LinksItem-sc-1o884zt-27 dRBspd">
-                      <a href="https://br.op.gg"
-                        class="style__LinksItemLink-sc-1o884zt-28 epMhoL">
-                        OP.GG
-                      </a>
-                    </li>
-                    <li class="style__LinksItem-sc-1o884zt-27 fgbHDK">
-                      <a href="https://www.probuilds.net"
-                        class="style__LinksItemLink-sc-1o884zt-28 epMhoL">
-                        probuilds.net
-                      </a>
-                    </li>
-                  </ul>
-                </div>
+            <div class="style__ForegroundAsset-sc-1o884zt-4 cVdVkh-2">
+              <div class="form-style-8">
+                <h2>Adicione as informações para criar seu campeão</h2>
+                <form class="fixed-position" action="#" method="post" target="_blank">
+                  <input 
+                    type="text" 
+                    name="field1" 
+                    placeholder="Nome" 
+                  />
+                  <input 
+                    type="text" 
+                    name="field2" 
+                    placeholder="Sobrenome" 
+                  />
+                  <input 
+                    type="text" 
+                    name="field3" 
+                    placeholder="URL da imagem do campeão" 
+                  />
+                  <input 
+                    id="create"
+                    type="button" 
+                    value="Criar"
+                  />
+                </form>
               </div>
             </div>
             <div class="style__ChampionsButtonContainer-sc-1o884zt-18 eDdLkN">
@@ -4108,19 +4110,19 @@
   /*<![CDATA[*/window.___chunkMapping = { "app": ["/app-36d4f7a5e2aa829c7174.js"], "intl-polyfill": ["/intl-polyfill-c390e1a0dc8c936e3743.js"], "component---src-contentstack-content-types-pages-templates-default-index-tsx": ["/component---src-contentstack-content-types-pages-templates-default-index-tsx-b205690b2f46ce0587ee.js"], "component---src-contentstack-content-types-articles-templates-default-index-tsx": ["/component---src-contentstack-content-types-articles-templates-default-index-tsx-8d3b9ff37bf69071b63f.js"], "component---src-contentstack-content-types-articles-templates-patch-notes-index-tsx": ["/component---src-contentstack-content-types-articles-templates-patch-notes-index-tsx-349b76672304f8a33988.js"], "component---src-contentstack-content-types-landing-pages-templates-default-index-tsx": ["/component---src-contentstack-content-types-landing-pages-templates-default-index-tsx-be9a8e5c439e41fa50c5.js"], "component---src-contentstack-content-types-champions-templates-default-index-tsx": ["/component---src-contentstack-content-types-champions-templates-default-index-tsx-92539630cc46365fe359.js"], "component---src-contentstack-content-types-categories-templates-default-index-tsx": ["/component---src-contentstack-content-types-categories-templates-default-index-tsx-e86a6cf3d405213c4357.js"], "component---src-pages-404-tsx": ["/component---src-pages-404-tsx-3a3c87374341c52b5f0b.js"], "component---src-pages-dev-qa-article-index-tsx": ["/component---src-pages-dev-qa-article-index-tsx-c3e74abf909a9b78e418.js"], "component---src-pages-dev-qa-category-index-tsx": ["/component---src-pages-dev-qa-category-index-tsx-8e44ca5bc05da89ff885.js"], "component---src-pages-dev-qa-champion-list-index-tsx": ["/component---src-pages-dev-qa-champion-list-index-tsx-426a47b7eb390d5acbe1.js"], "component---src-pages-dev-qa-champion-index-tsx": ["/component---src-pages-dev-qa-champion-index-tsx-22d3e6489e634a56bb90.js"], "component---src-pages-dev-qa-event-index-tsx": ["/component---src-pages-dev-qa-event-index-tsx-989e3e6bb89b7b9bdcdf.js"], "component---src-pages-dev-qa-home-index-tsx": ["/component---src-pages-dev-qa-home-index-tsx-451c7b8d311ed0590154.js"], "component---src-pages-dev-qa-how-to-play-index-tsx": ["/component---src-pages-dev-qa-how-to-play-index-tsx-88dca8e5558f5b4952a1.js"], "component---src-pages-dev-qa-index-tsx": ["/component---src-pages-dev-qa-index-tsx-b4c23f91ab42e49a50db.js"], "component---src-pages-dev-qa-news-index-tsx": ["/component---src-pages-dev-qa-news-index-tsx-a1bcca565fde9808da68.js"], "component---src-pages-dev-qa-patch-notes-index-tsx": ["/component---src-pages-dev-qa-patch-notes-index-tsx-b7a78e6d76c9e7812790.js"] };/*]]>*/
   </script>
   <script
-    src="https://lolstatic-a.akamaihd.net/frontpage/apps/prod/harbinger-l10-website/pt-br/production/pt-br/component---src-contentstack-content-types-champions-templates-default-index-tsx-92539630cc46365fe359.js"
+    src="D:\Programação\Pessoais\LoLSite\frontpage\apps\prod\harbinger-I10-website\pt-br\production\pt-br\component---src-contentstack-content-types-champions-templates-d.js"
     async="">
   </script>
   <script
-    src="https://lolstatic-a.akamaihd.net/frontpage/apps/prod/harbinger-l10-website/pt-br/production/pt-br/commons-56600be9043c8a70ddfc.js"
+    src="D:\Programação\Pessoais\LoLSite\frontpage\apps\prod\harbinger-I10-website\pt-br\production\pt-br\commons-56600be9043c8a70ddfc.js"
     async="">
   </script>
   <script
-    src="https://lolstatic-a.akamaihd.net/frontpage/apps/prod/harbinger-l10-website/pt-br/production/pt-br/app-36d4f7a5e2aa829c7174.js"
+    src="D:\Programação\Pessoais\LoLSite\frontpage\apps\prod\harbinger-I10-website\pt-br\production\pt-br\app-36d4f7a5e2aa829c7174.js"
     async="">
   </script>
   <script
-    src="https://lolstatic-a.akamaihd.net/frontpage/apps/prod/harbinger-l10-website/pt-br/production/pt-br/webpack-runtime-2b1d8e8df4a3e4e247ef.js"
+    src="D:\Programação\Pessoais\LoLSite\frontpage\apps\prod\harbinger-I10-website\pt-br\production\pt-br\webpack-runtime-2b1d8e8df4a3e4e247ef.js"
     async="">
   </script>
   <script type="text/javascript" id="" src="https://lolstatic-a.akamaihd.net/ping_telemetry/latest/wpp.js"></script>
