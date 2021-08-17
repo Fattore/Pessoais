@@ -430,6 +430,7 @@ body.riotbar-present .osano-cm-widget {
 .style-content {
     flex: 1 1 100%;
     min-width: 0px;
+    margin-bottom: 10%;
 }
 
 .style-wrapper2-1::after {
@@ -1092,6 +1093,7 @@ body.riotbar-present .osano-cm-widget {
     transform-origin: center bottom;
     transform: translateY(15px) scale(0.75, 0.75);
     transition: transform 0.8s cubic-bezier(0.215, 0.61, 0.355, 1) 0s, fill 0.2s ease-in-out 0s;
+    transform: translateY(0px) scale(1, 1);
 }
 
 .style-option1.is-active.is-hex-variant .style-optioniconcontent1-1 {
@@ -1869,24 +1871,23 @@ body.riotbar-present .osano-cm-widget {
 
 .style-abilityinfoitemtype {
     margin-top: 0px;
-    font-size: 0.625rem;
     line-height: 1.1;
     font-weight: normal;
     letter-spacing: 0.15em;
     color: rgb(126, 126, 126);
+    text-transform: uppercase;
 }
 
 .style-abilityinfoitemname {
     margin-top: 0.375rem;
-    font-size: 1.125rem;
     line-height: 1.11111;
     font-weight: 700;
     letter-spacing: 0.05em;
+    text-transform: uppercase;
 }
 
 .style-abilityinfoitemdesc {
     margin-top: 0.375rem;
-    font-size: 0.875rem;
     line-height: 1.4;
     letter-spacing: 0.05em;
 }
@@ -2082,7 +2083,6 @@ body.riotbar-present .osano-cm-widget {
 
 .style-title5 {
     position: relative;
-    overflow: hidden;
     align-self: center
 }
 
@@ -2310,6 +2310,7 @@ body.riotbar-present .osano-cm-widget {
     display: flex;
     -webkit-box-align: center;
     align-items: center;
+    text-transform: uppercase;
 }
 
 .style-container7 {

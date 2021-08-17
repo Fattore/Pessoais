@@ -17,3 +17,27 @@
     position: absolute;
     margin-left: 15px;
 }
+
+.default-side-text {
+    font-size: 10px;
+    text-transform: uppercase;
+}
+
+.default-upper-font {
+    font-style: italic;
+    text-transform: uppercase;
+    position: absolute;
+    left: 15px;
+    bottom: calc(100%);
+    margin-top: 0px;
+    margin-bottom: 40px;
+    color: rgb(255, 255, 255);
+    letter-spacing: 0.05em;
+    font-family: "Beaufort for LOL", serif;
+    font-weight: 800;
+    font-size: 3.75rem;
+}
+
+.style-title7 {
+    text-transform: uppercase;
+}
