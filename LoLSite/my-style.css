@@ -1,0 +1,19 @@
+.navbar-font-family-default {
+    font-family: sans-serif;
+}
+
+.navbar-font-family-default-login {
+    font-family: ui-sans-serif;
+    color: white;
+}
+
+.navbar-font-family-default-dwld {
+    background-color: rgb(11, 196, 266);
+    font-family: sans-serif;
+    color: white;
+}
+
+.default-absolute-position {
+    position: absolute;
+    margin-left: 15px;
+}

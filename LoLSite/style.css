@@ -388,7 +388,12 @@ body.riotbar-present .osano-cm-widget {
     height: 100%;
 }
 
-.style-title {
+.style-wrapper2-1::after .style-wrapper2-1 .style-title {
+    width: 60px;
+    flex: 0 0 auto;
+}
+
+.style-titlee {
     position: relative;
     overflow: hidden;
 }
@@ -544,7 +549,7 @@ body.riotbar-present .osano-cm-widget {
 .style-title1 {
     display: block;
     font-size: 120px;
-    line-height: 0.85;
+    line-height: 1.1;
     font-family: "Beaufort for LOL", serif;
     font-weight: 800;
     letter-spacing: 0.03em;
@@ -552,13 +557,13 @@ body.riotbar-present .osano-cm-widget {
 
 @media (min-width: 600px) {
     .style-title1:lang(pt-br) {
-        font-size: calc(58.73px + 2.88vw);
+        font-size: calc(61.82px + 3.03vw);
     }
 }
 
 @media (min-width: 600px) {
     .style-title1:lang(pt-br) {
-        font-size: 76px;
+        font-size: 80px;
     }
 }
 
@@ -2652,32 +2657,6 @@ body.riotbar-present .osano-cm-widget {
     transform: translate(-6%, -16%);
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .navbar {
     position: static;
     margin: 0;
@@ -2777,31 +2756,6 @@ body.riotbar-present .osano-cm-widget {
     vertical-align: top;
     opacity: .4;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 .navbar-middle {
     display: flex;
