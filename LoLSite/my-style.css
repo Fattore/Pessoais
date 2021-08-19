@@ -2,6 +2,12 @@
     font-family: sans-serif;
 }
 
+.navbar-font-family-default:hover {
+    border-bottom-color: rgb(0, 160, 186) !important;
+    text-decoration: none;
+    color: white;
+}
+
 .navbar-font-family-default-login {
     font-family: ui-sans-serif;
     color: white;
@@ -11,11 +17,6 @@
     background-color: rgb(11, 196, 266);
     font-family: sans-serif;
     color: white;
-}
-
-.default-absolute-position {
-    position: absolute;
-    margin-left: 15px;
 }
 
 .default-side-text {
