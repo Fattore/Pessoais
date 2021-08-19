@@ -383,7 +383,6 @@ body.riotbar-present .osano-cm-widget {
 }
 
 .style-wrapper2-1 {
-    display: flex;
     width: 100%;
     height: 100%;
 }
@@ -395,7 +394,6 @@ body.riotbar-present .osano-cm-widget {
 
 .style-titlee {
     position: relative;
-    overflow: hidden;
 }
 
 .style-textcontainer {
@@ -446,7 +444,7 @@ body.riotbar-present .osano-cm-widget {
 .style-sectioninner {
     box-sizing: border-box;
     max-width: 1335px;
-    padding: 0px 3.75rem;
+    padding: 0px 5.75rem;
     margin: 0px auto;
 }
 
@@ -2134,6 +2132,7 @@ body.riotbar-present .osano-cm-widget {
     max-width: 97.5rem;
     position: relative;
     margin: 5% auto;
+    margin-left: -7%;
 }
 
 @media (min-width: 600px) {
@@ -2535,7 +2534,6 @@ body.riotbar-present .osano-cm-widget {
 .style-label {
     position: relative;
     z-index: 1;
-    opacity: 0;
 }
 
 .style-anchor.is-visible .style-label {
