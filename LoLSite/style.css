@@ -468,7 +468,7 @@ body.riotbar-present .osano-cm-widget {
     top: 0px;
     width: 100%;
     height: 100%;
-    animation: 2000ms cubic-bezier(0.215, 0.61, 0.355, 1) 700ms 1 normal both running bcCCNc;
+    animation: 2000ms cubic-bezier(0.215, 0.61, 0.355, 1) 700ms 1 normal both running bcCCNc}@keyframes bcCCNc{0%{opacity:0}100%{opacity:1}
 }
 
 .style-dock {
@@ -476,7 +476,7 @@ body.riotbar-present .osano-cm-widget {
     margin: -5.625rem 3.75rem 0px;
 }
 
-.style-container {
+.style-container1 {
     position: absolute;
     inset: 1px;
     pointer-events: none;
@@ -520,6 +520,8 @@ body.riotbar-present .osano-cm-widget {
     line-height: 1.1;
     font-weight: 600;
     letter-spacing: 0.1em;
+    font-style: italic;
+    text-transform: uppercase;
 }
 
 @media (min-width: 600px) and (max-width: 1023px) {
@@ -530,7 +532,7 @@ body.riotbar-present .osano-cm-widget {
 
 .style-revealwrapper.show-nw {
     clip-path: polygon(100% 100%, -200% 100%, 100% -200%);
-    animation-name: kDaqPz;
+    animation:kDaqPz}@keyframes kDaqPz{0%{opacity:0;transform: perspective(500px) translate3d(4px, 5px, 18px)}100%{opacity: 1;transform: perspective(500px) translate3d(0, 0, 0)}
 }
 
 .style-revealwrapper.inline {
@@ -552,6 +554,8 @@ body.riotbar-present .osano-cm-widget {
     font-family: "Beaufort for LOL", serif;
     font-weight: 800;
     letter-spacing: 0.03em;
+    font-style: italic;
+    text-transform: uppercase;
 }
 
 @media (min-width: 600px) {
@@ -568,7 +572,7 @@ body.riotbar-present .osano-cm-widget {
 
 .style-revealwrapper1.show-se {
     clip-path: polygon(0% 0%, 200% 0%, 0% 200%);
-    animation-name: dpMRuZ;
+    animation:dpMRuZ}@keyframes dpMRuZ{0%{opacity:0;transform: perspective(500px) translate3d(-4px, -5px, -18px) rotate3d(1, -1, 0, 35deg)}100%{opacity: 1;transform: perspective(500px) translate3d(0, 0, 0)}
 }
 
 .style-revealwrapper1.inline {
@@ -2578,6 +2582,7 @@ body.riotbar-present .osano-cm-widget {
     font-weight: bold;
     letter-spacing: 0.08em;
     font-family: "Beaufort for LOL", serif;
+    text-transform: uppercase;
 }
 
 @media (min-width: 1001px) {
@@ -3189,10 +3194,6 @@ a[href], input[type="submit"], input[type="image"], label[for], select, button {
     height: 24px;
 }
 
-.footer-content>div {
-    margin: 40px auto;
-}
-
 .footer-content-divfour {
     font-family: "FF Mark W05";
     font-weight: 500;
@@ -3238,10 +3239,6 @@ a[href], input[type="submit"], input[type="image"], label[for], select, button {
     text-decoration: underline;
     color: #7e7e7e;
     transition: all .2s linear;
-}
-
-.footer-content>div {
-    margin: 40px auto;
 }
 
 .footer-classification-first-div {
